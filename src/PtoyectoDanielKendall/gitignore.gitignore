@@ -1,0 +1,4 @@
+# Visual Studio workspace and build files
+.vs/
+*.suo
+*.user

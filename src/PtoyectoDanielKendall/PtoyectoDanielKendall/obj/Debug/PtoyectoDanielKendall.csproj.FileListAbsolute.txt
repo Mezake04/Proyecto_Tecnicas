@@ -1,0 +1,32 @@
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\bin\Debug\PtoyectoDanielKendall.exe.config
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\bin\Debug\PtoyectoDanielKendall.exe
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\bin\Debug\PtoyectoDanielKendall.pdb
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.csproj.AssemblyReference.cache
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.Properties.Resources.resources
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.csproj.GenerateResource.cache
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.exe
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.pdb
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\Reportes.frmPrincipal.resources
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\SplitBuddies.Presentation.FrmGrupo.resources
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\SplitBuddies.Presentation.FrmGasto.resources
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\SplitBuddies.Presentation.FrmUsuario.resources
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.FrmLogin.resources
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.exe.config
+C:\Users\Erick\source\repos\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.FrmControlGastos.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\bin\Debug\PtoyectoDanielKendall.exe.config
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\bin\Debug\PtoyectoDanielKendall.exe
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\bin\Debug\PtoyectoDanielKendall.pdb
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.csproj.AssemblyReference.cache
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.exe.config
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.FrmControlGastos.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\SplitBuddies.Presentation.FrmGasto.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\SplitBuddies.Presentation.FrmGrupo.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.FrmLogin.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\Reportes.frmPrincipal.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\SplitBuddies.Presentation.FrmUsuario.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.Properties.Resources.resources
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.csproj.GenerateResource.cache
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.csproj.CoreCompileInputs.cache
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.exe
+C:\Proyecto Tecnicas\src\PtoyectoDanielKendall\PtoyectoDanielKendall\obj\Debug\PtoyectoDanielKendall.pdb
