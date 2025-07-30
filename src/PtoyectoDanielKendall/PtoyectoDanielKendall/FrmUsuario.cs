@@ -5,6 +5,9 @@ using System.Windows.Forms;
 
 namespace SplitBuddies.Presentation
 {
+    /// <summary>
+    /// Validaciones normales.
+    /// </summary>
     public partial class FrmUsuario : Form
     {
         private readonly string _conn = "Server=.;Database=SplitBuddies;Trusted_Connection=True;";
@@ -49,7 +52,7 @@ namespace SplitBuddies.Presentation
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-
+            ///Aqui se agregan los usuarios a la base de datos:
             if (cmbGrupo.SelectedIndex < 0)
             {
                 MessageBox.Show("Por favor selecciona un grupo.", "Validación",

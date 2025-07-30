@@ -6,6 +6,9 @@ using System.Windows.Forms;
 
 namespace Reportes
 {
+    /// <summary>
+    ///     Se trata del formulario principal de la aplicación.
+    /// </summary>
     public partial class frmPrincipal : Form
     {
         private int childFormNumber = 0;

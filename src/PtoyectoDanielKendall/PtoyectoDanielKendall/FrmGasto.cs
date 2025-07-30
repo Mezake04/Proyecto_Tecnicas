@@ -75,13 +75,13 @@ namespace SplitBuddies.Presentation
             int pagador = (int)cmbUsuario.SelectedValue;
             string nombre = txtNombre.Text;
             string desc = txtDescripcion.Text;
-
+            /// Insertar el gasto en la base de datos:
             using (var cn = new SqlConnection(_conn))
             {
                 cn.Open();
                 using (var tran = cn.BeginTransaction())
                 {
-                    // 1. Insertar Gasto
+
                     int idGasto;
                     using (var cmd = new SqlCommand(
                         "INSERT INTO Gasto (Nombre, Descripcion, Enlace, MontoTotal, IdUsuarioPago, IdGrupo) " +

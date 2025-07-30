@@ -7,8 +7,14 @@ using System.Windows.Forms;
 
 namespace PtoyectoDanielKendall
 {
+    /// <summary>
+    ///    Formulario de inicio de sesión para la aplicación SplitBuddies.
+    /// </summary>
     public partial class FrmLogin : Form
     {
+        /// <summary>
+        /// Conexión a la base de datos.
+        /// </summary>
         private readonly string _conn = "Server=.;Database=SplitBuddies;Trusted_Connection=True;";
 
         public FrmLogin()
@@ -34,7 +40,7 @@ namespace PtoyectoDanielKendall
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            // 1) Aca hago las Validaciones del nombre usuario
+
             if (cmbUsuario.SelectedIndex < 0)
             {
                 MessageBox.Show("Selecciona un usuario.", "Validación",
@@ -52,7 +58,7 @@ namespace PtoyectoDanielKendall
             string claveIngresada = txtContrasena.Text.Trim();
             string claveGuardada;
 
-            // 2) Aca revisa la contraseña contra la base de datos
+
             using (var cn = new SqlConnection(_conn))
             using (var cmd = new SqlCommand(
                 "SELECT Contrasena FROM Usuario WHERE IdUsuario = @id", cn))
@@ -69,20 +75,20 @@ namespace PtoyectoDanielKendall
                 claveGuardada = result.ToString();
             }
 
-            // 3) Ente lado revida la contraseña
+
             if (claveGuardada == claveIngresada)
             {
-                // Ocultamos este login
+
                 this.Hide();
 
-                // Se redifique la from rpincipal que yo lo llamo contenedor
+
                 var principal = new frmPrincipal
                 {
                     IsMdiContainer = true
                 };
-                // Cuando cierre el frmlogon, que se me cierre el login
+
                 principal.FormClosed += (s, args) => this.Close();
-                // Mostramos el principal
+
                 principal.Show();
             }
             else

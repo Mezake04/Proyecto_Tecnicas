@@ -5,12 +5,20 @@ using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 
+/*Declaración del formulario:*/
 namespace SplitBuddies.Presentation
 {
+    /// <summary>
+    /// Constructor del formulario:
+    /// </summary> 
     public partial class FrmGrupo : Form
     {
         private readonly string _conn = "Server=.;Database=SplitBuddies;Trusted_Connection=True;";
 
+
+        /// <summary>
+        /// 
+        /// </summary> 
         public FrmGrupo()
         {
             InitializeComponent();
@@ -44,7 +52,7 @@ namespace SplitBuddies.Presentation
                     img = ms.ToArray();
                 }
             }
-
+            ///Guarda la imagen en la base de datos:
             using (var cn = new SqlConnection(_conn))
             using (var cmd = new SqlCommand("INSERT INTO Grupo (Nombre, Imagen) VALUES (@n, @i)", cn))
             {

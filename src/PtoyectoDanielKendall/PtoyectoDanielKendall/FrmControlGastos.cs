@@ -4,6 +4,8 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
+/// <summary>
+/// Declara la clase del formulario FrmControlGastos y la conexión a la base de datos.
 namespace PtoyectoDanielKendall
 {
     public partial class FrmControlGastos : Form
@@ -37,7 +39,7 @@ namespace PtoyectoDanielKendall
                 lblTotal.Text = "Total: ₡0.00";
                 return;
             }
-
+            /// Obtiene el ID del grupo seleccionado y carga los gastos asociados a ese grupo.
             int grupoId = (int)cmbGrupo.SelectedValue;
             var dt = new DataTable();
             using (var da = new SqlDataAdapter(
@@ -50,7 +52,7 @@ namespace PtoyectoDanielKendall
 
             dgvGastos.DataSource = dt;
 
-
+            /// Calcula el total.
             decimal suma = 0m;
             foreach (DataRow row in dt.Rows)
             {
