@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\ptoyectodanielkendall\\frmgasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|c:\\proyecto tecnicas\\src\\ptoyectodanielkendall\\ptoyectodanielkendall\\frmgasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|solutionrelative:ptoyectodanielkendall\\frmgasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|solutionrelative:ptoyectodanielkendall\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|c:\\proyecto tecnicas\\src\\ptoyectodanielkendall\\ptoyectodanielkendall\\frmcontrolgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\ptoyectodanielkendall\\frmcontrolgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95351CF5-377D-40E2-877D-1EE56E0FDCCE}|PtoyectoDanielKendall\\PtoyectoDanielKendall.csproj|solutionrelative:ptoyectodanielkendall\\frmcontrolgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -149,8 +149,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGrupo.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA5wCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:34:51.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:34:51.123Z"
             },
             {
               "$type": "Document",
@@ -162,8 +161,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:18:58.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T20:18:58.187Z"
             },
             {
               "$type": "Document",
@@ -174,8 +172,7 @@
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\frmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "PtoyectoDanielKendall\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:31:06.163Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-25T19:31:06.163Z"
             },
             {
               "$type": "Document",
@@ -185,7 +182,7 @@
               "RelativeDocumentMoniker": "PtoyectoDanielKendall\\FrmGasto.cs",
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\FrmGasto.cs",
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGasto.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAqwGoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T19:56:32.782Z",
               "EditorCaption": ""
@@ -199,8 +196,7 @@
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\FrmUsuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:12:49.95Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-25T19:12:49.95Z"
             },
             {
               "$type": "Document",
@@ -212,8 +208,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmControlGastos.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAiwDkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:46:40.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T03:46:40.93Z"
             },
             {
               "$type": "Document",
@@ -225,8 +220,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\frmPrincipal.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:28:13.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:28:13.788Z"
             },
             {
               "$type": "Document",
@@ -238,8 +232,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmUsuario.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:14:38.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:14:38.146Z"
             },
             {
               "$type": "Document",
@@ -250,8 +243,7 @@
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\FrmGasto.cs [Dise\u00F1o]",
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGasto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:56:20.261Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-25T19:56:20.261Z"
             },
             {
               "$type": "Document",
@@ -262,8 +254,7 @@
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\FrmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:04:56.979Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-25T20:04:56.979Z"
             },
             {
               "$type": "Document",
@@ -274,8 +265,7 @@
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\FrmGrupo.cs [Dise\u00F1o]",
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGrupo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:33:59.544Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-25T19:33:59.544Z"
             },
             {
               "$type": "Document",
@@ -298,8 +288,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmLogin.Designer.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T04:34:53.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T04:34:53.491Z"
             },
             {
               "$type": "Document",
@@ -311,8 +300,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\frmPrincipal.Designer.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAhwDUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:29:27.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:29:27.713Z"
             },
             {
               "$type": "Document",
@@ -371,8 +359,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmUsuario.Designer.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAYwKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:14:51.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:14:51.015Z"
             },
             {
               "$type": "Document",
@@ -383,8 +370,7 @@
               "ToolTip": "C:\\Proyecto Tecnicas\\src\\PtoyectoDanielKendall\\PtoyectoDanielKendall\\FrmGasto.resx",
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGasto.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-25T21:04:31.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T21:04:31.117Z"
             },
             {
               "$type": "Document",
@@ -396,8 +382,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGrupo.Designer.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:34:04.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:34:04.356Z"
             },
             {
               "$type": "Document",
@@ -409,8 +394,7 @@
               "RelativeToolTip": "PtoyectoDanielKendall\\FrmGasto.Designer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:57:00.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T19:57:00.636Z"
             },
             {
               "$type": "Document",
